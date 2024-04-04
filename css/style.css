@@ -70,7 +70,7 @@ body {
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
  */
 .header-area {
-    background: url('../images/faded-image.jpeg') no-repeat center center / cover;
+    background: url('../images/Korea.jpeg') no-repeat center center / cover;
 	padding: 60px 0;
 	
 }
@@ -240,7 +240,7 @@ body {
 }
 
 .contend-area .about-section {
-    background: #e8b968 url('../images/ipadBG.png') no-repeat right  65px/ 50%;
+    background: #e8b968 url('../images/Picture.pjg') no-repeat right  65px/ 50%;
     overflow: hidden;
     color: #FFF;
 	padding: 100px 0;
